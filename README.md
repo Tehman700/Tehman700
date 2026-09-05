@@ -1,15 +1,15 @@
 <h1>
   Tehman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <a href="https://github.com/Tehman700"><code>@Tehman700</code></a>
+  <a href="https://github.com/Tehman700" target="_blank" rel="noopener noreferrer"><code>@Tehman700</code></a>
 </h1>
 
 **Backend, AI and distributed systems engineer.** I build the parts of a product that have to stay up: REST and WebSocket APIs, sandboxed execution engines, ML pipelines, and the AWS infrastructure underneath them. System design first, then code.
 
 Based in Pakistan · Solving real-world problems with software
 
-<a href="https://www.linkedin.com/in/tehman600/"><img width="34px" title="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;
-<a href="https://github.com/Tehman700"><img width="34px" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>&nbsp;
-<a href="https://www.fiverr.com/naeem_niazi7"><img height="30px" title="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/tehman600/" target="_blank" rel="noopener noreferrer"><img width="34px" title="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;
+<a href="https://github.com/Tehman700" target="_blank" rel="noopener noreferrer"><img width="34px" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>&nbsp;
+<a href="https://www.fiverr.com/naeem_niazi7" target="_blank" rel="noopener noreferrer"><img height="30px" title="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>&nbsp;
 <img height="30px" src="https://komarev.com/ghpvc/?username=Tehman700&style=for-the-badge&color=24292f&label=PROFILE+VIEWS">
 
 ---
@@ -116,6 +116,6 @@ Data structures and algorithms worked through problem by problem ([course work](
 
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px">
 
-<a href="https://www.linkedin.com/in/tehman600/"><img width="40px" title="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;
-<a href="https://github.com/Tehman700"><img width="40px" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>&nbsp;
-<a href="https://www.fiverr.com/naeem_niazi7"><img height="34px" title="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tehman600/" target="_blank" rel="noopener noreferrer"><img width="40px" title="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;
+<a href="https://github.com/Tehman700" target="_blank" rel="noopener noreferrer"><img width="40px" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></a>&nbsp;
+<a href="https://www.fiverr.com/naeem_niazi7" target="_blank" rel="noopener noreferrer"><img height="34px" title="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
