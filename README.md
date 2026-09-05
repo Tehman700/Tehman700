@@ -1,5 +1,5 @@
 <h1>
-  Tehman <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Tehman Hassan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <a href="https://github.com/Tehman700" target="_blank" rel="noopener noreferrer"><code>@Tehman700</code></a>
 </h1>
 
