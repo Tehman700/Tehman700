@@ -127,17 +127,17 @@ Data structures and algorithms worked through problem by problem ([course work](
 
 ---
 
-## Competitions
+## Competitions 🏆
 
 | Result | Event | What it was |
 |---|---|---|
-| **1st Runner-Up** | AI Hackathon, Aurex'26 — Bahria H11 | Built an AI-powered adaptive LMS with team Titans, powered by atomcamp |
-| **Winner** | OOP Semester Project, UET Taxila | Best semester project in the department out of 150 students — certificate and prize money |
-| **Participant** | Speed Programming Hackathon, Devsinc | Timed contest inside a professional software house — data structures, greedy algorithms and DP |
+| 🥈 **1st Runner-Up** | AI Hackathon, Aurex'26 — Bahria H11 | Built an AI-powered adaptive LMS with team Titans, powered by atomcamp |
+| 🏆 **Winner** | OOP Semester Project, UET Taxila | Best semester project in the department out of 150 students — certificate and prize money |
+| 🎖️ **Participant** | Speed Programming Hackathon, Devsinc | Timed contest inside a professional software house — data structures, greedy algorithms and DP |
 
 ---
 
-## Certificates
+## Certificates 📜
 
 | | |
 |---|---|
