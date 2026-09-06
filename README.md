@@ -127,6 +127,28 @@ Data structures and algorithms worked through problem by problem ([course work](
 
 ---
 
+## Competitions
+
+| Result | Event | What it was |
+|---|---|---|
+| **1st Runner-Up** | AI Hackathon, Aurex'26 — Bahria H11 | Built an AI-powered adaptive LMS with team Titans, powered by atomcamp |
+| **Winner** | OOP Semester Project, UET Taxila | Best semester project in the department out of 150 students — certificate and prize money |
+| **Participant** | Speed Programming Hackathon, Devsinc | Timed contest inside a professional software house — data structures, greedy algorithms and DP |
+
+---
+
+## Certificates
+
+| | |
+|---|---|
+| Claude Code 101 | Software Development with GitHub Copilot |
+| API Testing Learning Path | Postman API Fundamentals Student Expert |
+| Machine Learning with Python | 100 Days of Code — Complete Python Pro Bootcamp |
+| SQL (Basic) — HackerRank | Transformers in LLMs |
+| Thinking and Problem Solving — LinkedIn | |
+
+---
+
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px">
 
 <a href="https://www.linkedin.com/in/tehman600/" target="_blank" rel="noopener noreferrer"><img width="40px" title="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>&nbsp;
